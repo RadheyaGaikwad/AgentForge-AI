@@ -12,6 +12,11 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Generated project output and its runtime metadata are not application source.
+    "GeneratedProjects/**",
+    "**/.history/**",
+    "**/diffs/**",
+    "**/snapshots/**",
   ]),
 ]);
 
