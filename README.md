@@ -174,57 +174,72 @@ AgentForge AI combines autonomous AI agents with a structured software engineeri
 
 ---
 
-# STEP 7 — 🤖 AI Agents
+---
 
-```md
-## 🤖 AI Agents
+# 🤖 AI Agents
 
-| Agent | Responsibility |
-|--------|---------------|
-| Product Manager | Requirement Analysis |
-| Software Architect | System Design |
-| Backend Engineer | APIs & Business Logic |
-| Frontend Engineer | UI Generation |
-| Database Engineer | Prisma Schema |
-| QA Engineer | Validation |
-| DevOps Engineer | Packaging & ZIP Export |
+| AI Agent | Responsibility | Output |
+|----------|----------------|--------|
+| 🧠 Product Manager | Requirement Analysis | User Stories & Feature List |
+| 🏗 Software Architect | System Design | Project Architecture |
+| ⚙ Backend Engineer | API & Business Logic | Backend Services |
+| 🎨 Frontend Engineer | UI Development | Responsive Interface |
+| 🗄 Database Engineer | Database Design | Prisma Schema |
+| ✅ QA Engineer | Validation & Testing | Tested Application |
+| 🚀 DevOps Engineer | Packaging & Deployment | Downloadable ZIP |
 
 ---
 
+# 📸 Platform Screenshots
 
-## 📸 Screenshots
+## 🏠 Landing Page
 
-### 🏠 Landing Page
 ![Landing Page](screenshots/home.png)
 
-### 📝 Create New Project
-![New Project](screenshots/new-project.png)
+---
 
-### 🤖 AI Workspace
+## ➕ Create New Project
+
+![Create Project](screenshots/new-project.png)
+
+---
+
+## 🤖 AI Workspace
+
 ![Workspace](screenshots/workspace.png)
 
-### 💻 Generated Application
-![Generated App](screenshots/generated-app.png)
+---
 
-### 📦 ZIP Export
-![ZIP Download](screenshots/zip-download.png)
+## 💻 Generated Application
 
-## 👨‍💻 Author
-
-**Radheya Gaikwad**
-
-🎓 B.E. Artificial Intelligence & Data Science
-
-📧 Email: **radheagikwad76@gmail.com**
-
-🔗 GitHub: **https://github.com/RadheyaGaikwad**
-
-💼 LinkedIn: **https://www.linkedin.com/in/radhegaikwad/**
+![Generated Application](screenshots/generated-app.png)
 
 ---
 
-### ⭐ Support the Project
+## 📦 ZIP Export
 
-If you found **AgentForge AI** useful or interesting, please consider giving this repository a ⭐ on GitHub. Your support helps improve the project and motivates future development.
+![ZIP Export](screenshots/zip-download.png)
 
 ---
+
+# 👨‍💻 Author
+
+| Information | Details |
+|------------|---------|
+| **Name** | Radheya Gaikwad |
+| **Degree** | B.E. Artificial Intelligence & Data Science |
+| **Email** | radheagikwad76@gmail.com |
+| **GitHub** | https://github.com/RadheyaGaikwad |
+| **LinkedIn** | https://www.linkedin.com/in/radhegaikwad/ |
+
+---
+
+# ⭐ Support
+
+If you found **AgentForge AI** useful, please consider giving this repository a ⭐ on GitHub.
+
+---
+
+
+
+
